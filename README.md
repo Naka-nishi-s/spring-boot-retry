@@ -1,0 +1,1 @@
+・NextConfig.jsでプロキシしている
